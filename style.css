@@ -1,0 +1,82 @@
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.root{
+
+    align-items: center;
+}
+.margin{
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    width: 500px;
+
+}
+.some_work{
+
+    margin: 150px 0px 0px 150px;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+
+    display: flex;
+}
+
+.shadow{
+
+    box-shadow: 10px;
+
+    color: aqua;
+}
+
+.login{
+
+    background-color: blue;
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+
+}
+
+.password{
+
+    height: 40px;
+    border-radius: 10px;
+}
+
+.email{
+
+    height: 40px;
+    border-radius: 10px;
+
+}
+
+.forgot{
+
+    background-color: aliceblue;
+    color: blue;
+    height: 35px;
+    border-radius: 10px;
+    padding: auto;
+}
+
+.new{
+
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    height: 40px;
+    text-decoration: bisque;
+
+}
+
+.extra{
+
+    margin-left: 300px;
+}
